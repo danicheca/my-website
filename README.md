@@ -4,4 +4,4 @@ This is a really awesome website
 
 Now edit from update-readme branch
 
-Update local
+Update local, then remotely
